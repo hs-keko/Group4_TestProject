@@ -7,10 +7,6 @@
 <title>index.jsp</title>
 </head>
 <body>
-	<h1>4조 명단입니다</h1>
-	<ul>
-		<li>고현석<li>
-	</ul>
-	<a href="Hello.jsp"><p>눌러봐바</p></a>
+	<h1>Hello!</h1>
 </body>
 </html>
