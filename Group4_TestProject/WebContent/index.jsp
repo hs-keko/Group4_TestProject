@@ -21,8 +21,9 @@
 		<li>고현석</li>
 		<li>김다연</li>
 		<li>이충근</li>
-		<li>끼요옷</li>
+		<li>이다영</li>
+		<li>석우현</li>
 	</ul>
-	
+	<a href="Hello.jsp"><p>눌러봐바</p></a>
 </body>
 </html>
